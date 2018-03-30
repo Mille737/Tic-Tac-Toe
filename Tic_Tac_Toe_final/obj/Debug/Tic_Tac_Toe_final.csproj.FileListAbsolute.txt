@@ -1,0 +1,11 @@
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.Form1.resources
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.Form2.resources
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.Properties.Resources.resources
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.csproj.GenerateResource.Cache
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.csproj.CoreCompileInputs.cache
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\bin\Debug\Tic_Tac_Toe_final.pdb
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.pdb
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\bin\Debug\Tic_Tac_Toe_final.exe.config
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\bin\Debug\Tic_Tac_Toe_final.exe
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.exe
+C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.csprojResolveAssemblyReference.cache
