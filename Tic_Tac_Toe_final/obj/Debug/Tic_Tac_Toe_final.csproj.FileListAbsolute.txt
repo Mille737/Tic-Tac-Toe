@@ -9,3 +9,14 @@ C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\bin\Debug\Tic_Ta
 C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\bin\Debug\Tic_Tac_Toe_final.exe
 C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.exe
 C:\Users\mille\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.csprojResolveAssemblyReference.cache
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\bin\Debug\Tic_Tac_Toe_final.exe.config
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\bin\Debug\Tic_Tac_Toe_final.exe
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\bin\Debug\Tic_Tac_Toe_final.pdb
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.csprojResolveAssemblyReference.cache
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.Form1.resources
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.Form2.resources
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.Properties.Resources.resources
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.csproj.GenerateResource.Cache
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.csproj.CoreCompileInputs.cache
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.exe
+C:\Kode_Projekter\.Net & C#\source\repos\Tic_Tac_Toe_final\Tic_Tac_Toe_final\obj\Debug\Tic_Tac_Toe_final.pdb

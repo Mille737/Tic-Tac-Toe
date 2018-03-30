@@ -15,6 +15,7 @@ namespace Tic_Tac_Toe_final
 
         bool turn = true; // true = X's turn false = O's turn
         bool against_computer = false;
+        bool isGameEnded = false;
         int turn_count = 0;
         // static String player1, player2;
 
@@ -53,7 +54,7 @@ namespace Tic_Tac_Toe_final
 
             checkForWinner();
 
-            if ((!turn) && (against_computer))
+            if ((!turn) && (against_computer) && !this.isGameEnded)
             {
                 computer_make_move();
             }
@@ -250,6 +251,7 @@ namespace Tic_Tac_Toe_final
             else if ((C1.Text == B2.Text) && (B2.Text == A3.Text) && (!C1.Enabled))
                 there_is_a_winner = true;
 
+            // There is a winner
             if (there_is_a_winner)
             {
                 DisableButtons();
@@ -264,13 +266,15 @@ namespace Tic_Tac_Toe_final
                     winner = p1.Text;
                     x_win_count.Text = (Int32.Parse(x_win_count.Text) + 1).ToString();
                 }
-
+                this.isGameEnded = true;
                 MessageBox.Show(winner + " Wins!", "Yay!");
             }
             else
             {
+                // Draw
                 if (turn_count == 9)
                 {
+                    this.isGameEnded = true;
                     MessageBox.Show("Draw!", "Bummer!");
                     draw_count.Text = (Int32.Parse(draw_count.Text) + 1).ToString();
                 }
@@ -283,11 +287,18 @@ namespace Tic_Tac_Toe_final
             {
                 foreach (Control c in Controls)
                 {
-                    Button b = (Button)c;
-                    b.Enabled = false;
+                    Console.WriteLine(c);
+                    if (c is Button)
+                    {
+                        Button b = (Button)c;
+                        b.Enabled = false;
+                    }
                 }
             }
-            catch { }
+            catch
+            {
+                Console.WriteLine("DIDNT DISABLE BUTTONS");
+            }
         }
 
         private void newGameToolStripMenuItem_Click(object sender, EventArgs e)
